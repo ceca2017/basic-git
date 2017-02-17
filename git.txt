@@ -1,2 +1,3 @@
 Hello World. Some more info.
 2nd row text.
+Some more text while editor in git2 branch
